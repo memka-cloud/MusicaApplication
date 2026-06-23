@@ -1,4 +1,4 @@
-# MusicaApplication
+# MusicApplication
 
 # Music App Client
 
